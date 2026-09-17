@@ -1,0 +1,69 @@
+```<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    
+</body>
+
+    <h1>Sruthi Thota</h1>
+    <h2>Sruthi Thota</h2>
+    <h3>Sruthi Thota</h3>
+    <h4>Sruthi Thota</h4>
+    <h5>Sruthi Thota</h5>
+    <h6>Sruthi Thota</h6>
+
+    <hr>
+
+    <b>Sruthi Thota - Bold Text</b>
+    <br><br>
+
+    <i>Sruthi Thota - Italic Text</i>
+    <br><br>
+
+    <u>Sruthi Thota - Underlined Text</u>
+    <br><br>
+
+    <strong>Sruthi Thota - Strong Text</strong>
+    <br><br>
+
+    <small>Sruthi Thota - Small Text</small>
+    <br><br>
+
+    <big>Sruthi Thota - Big Text</big>
+    <br><br>
+
+    Sruthi<sup>Thota</sup>
+    <br><br>
+
+    Sruthi<sub>Thota</sub>
+    <br><br>
+
+    <strike>Sruthi Thota - Strike Text</strike>
+    <br><br>
+
+    <em>Sruthi Thota - Emphasized Text</em>
+    <br><br>
+
+    <mark>Sruthi Thota - Highlighted Text</mark>
+    <br><br>
+
+    <hr>
+
+    <p>
+        My name is <b>Sruthi Thota</b>.
+        I am learning <i>HTML</i>.
+        I am <strong>very interested</strong> in web development.
+        HTML is used to create <u>web pages</u>.
+    </p>
+
+    <p>
+        This is <em>important</em> and this is
+        <mark>highlighted</mark>.
+    </p>
+
+</body>
+</html>
+```
